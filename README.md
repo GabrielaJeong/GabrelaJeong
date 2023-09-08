@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielajeong&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielajeong" /> </p>
 
-- 🔭 I’m currently working on [Hapoom](hapoom.life)
+- 🔭 I’m currently working on [Hapoom](https://hapoom.life)
 
 - 🌱 I’m currently learning **product managing**
 
